@@ -1,0 +1,26 @@
+{
+  "name": "discord_bot_1",
+  "version": "1.0.0",
+  "description": "生徒会サーバー専用のbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirone-89/discord_bot_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shirone-89/discord_bot_1/issues"
+  },
+  "homepage": "https://github.com/shirone-89/discord_bot_1#readme",
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
